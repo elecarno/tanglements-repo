@@ -20,34 +20,34 @@ The Alpha Branch was allegedly the first that humans had entered. This theory is
 
 This branch contains three known instances:
 
-* [[Alpha-1|α-1]] "The Alphaways"
-* [[Αlpha-2|α-2]] "The Forest"
-* [[Αlpha-3|α-3]] "The Jungle"
+ -  [[Alpha-1|α-1]] "The Alphaways"
+ -  [[Αlpha-2|α-2]] "The Forest"
+ -  [[Αlpha-3|α-3]] "The Jungle"
 
 #### Beta Branch (β)
 The Beta Branch was (on record) the second branch to be discovered by human explorers. Instances in this branch are known to be prone to Time Overlaps.
 
 This branch contains two known instances:
 
-* [[Beta-1|β-1]] "The Battlefield"
-* [[Beta-2|β-2]] "The Kitchen"
+ -  [[Beta-1|β-1]] "The Battlefield"
+ -  [[Beta-2|β-2]] "The Kitchen"
 
 #### Gamma Branch (γ)
 Despite bearing the fourth letter of the Greek alphabet, the Gamma Branch was the fourth to be discovered by human explorers. The use of the γ was withheld after the discovery of a [[Precursors|Precursor]] text which told of the dangerous Gamma Branch. The Instances of this Branch are notorious for their high levels of gamma radiation, with the activity of the nearby environment of any given person within a 10m radius increasing at roughly 2 kBq/h.
 
 This branch contains three known instances:
 
-* [[Gamma-1|γ-1]] "The Reactor"
-* [[Gamma-2|γ-2]] "The Library"
-* [[Gamma-3|γ-3]] "The Sewer"
+ -  [[Gamma-1|γ-1]] "The Reactor"
+ -  [[Gamma-2|γ-2]] "The Library"
+ -  [[Gamma-3|γ-3]] "The Sewer"
 
 #### Delta Branch (Δ)
 With the γ reserved, the next letter of the Greek alphabet was chosen as the name for the third discovered branch. This branch contains the incredibly important instance Δ-1, otherwise known as "The Lab", which is crucial to the survival of any and all human factions in the Tanglements as it contains the equipment necessary to turn [[Chuppy Blood]] into [[Perception Pills]].
 
 This branch contains two known instances:
 
-* [[Delta-1|Δ-1]] "The Lab"
-* [[Delta-2|Δ-2]] "The Space"
+ -  [[Delta-1|Δ-1]] "The Lab"
+ -  [[Delta-2|Δ-2]] "The Space"
 
 #### Pi Branch (π)
 This branch contains only 1 known instance, that being π-1, "The Hub". This branch has not yet been discovered to be attached to the Hop Network and has only been accessed by accident or through extraordinary circumstances, such as with the aid of a [[Snail]] or [[Butterfly]] . Once accessed, π-1 is known to have the capability to allow transport to any other instance.
@@ -67,12 +67,12 @@ An aspect of Perception Transfer which applies only to humans. Manifesting as a 
 
 The common stages of perception sickness are as follows:
 
-* scattering of taste and smell
-* scattering of touch, hearing, and sight
-* scattering of all 5 senses across different limbs
-* scattering of the limbs themselves and loss of sense of self
-* slow scattering of entire body until you can no longer be percieved by any outside observer
-* (theorised) stretching of consciousness across all instances and points in time
+ -  scattering of taste and smell
+ -  scattering of touch, hearing, and sight
+ -  scattering of all 5 senses across different limbs
+ -  scattering of the limbs themselves and loss of sense of self
+ -  slow scattering of entire body until you can no longer be percieved by any outside observer
+ -  (theorised) stretching of consciousness across all instances and points in time
 
 If one finds themselves succumbing to the sickness within instance Δ-2 however, they will instead become a Void Roamer.
 
@@ -85,6 +85,6 @@ The final stage of the sickness has given rise to the common phrase present in m
 ## Units & Flora
 Units are the name given to the animate fauna of the Tanglements. The name "Unit" was found in a [[Precursor]] text. Units come in three categories based on their power as an expression of how close they are to the code of the simulation:
 
-* High Level - Furthest from the code, often similiar to naturally evolved Fauna in the real world.
-* Mid Level - An intermediary possessing a mixture of the capabilities of High and Low Level.
-* Low Level - Closest to the code, often able to manipulate the simulation itself.
+ -  High Level - Furthest from the code, often similiar to naturally evolved Fauna in the real world.
+ -  Mid Level - An intermediary possessing a mixture of the capabilities of High and Low Level.
+ -  Low Level - Closest to the code, often able to manipulate the simulation itself.
