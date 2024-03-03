@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instances/Gamma-2.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d9379b5067d66a7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Danger Index.md",
+                "file": "The Tanglements.md",
                 "mode": "preview",
                 "source": true
               }
@@ -113,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Instances/Gamma-2.md"
+                "file": "The Tanglements.md"
               }
             }
           },
@@ -123,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Instances/Gamma-2.md",
+                "file": "The Tanglements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Instances/Gamma-2.md",
+                "file": "The Tanglements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,8 +164,9 @@
   },
   "active": "2c9783d84ef68c7d",
   "lastOpenFiles": [
-    "Instances/Gamma-3.md",
+    "Tanglements Theory.md",
     "Instances/Gamma-2.md",
+    "Instances/Gamma-3.md",
     "Danger Index.md",
     "Instances/Gamma-1.md",
     "Instances/Delta-2.md",
@@ -200,7 +189,6 @@
     "Units/High Level",
     "Flora/! Flora.md",
     "The Tanglements.md",
-    "Tanglements Theory.md",
     "Groups/! Groups.md",
     "Instances/! Instances.md",
     "Flora",
