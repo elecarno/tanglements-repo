@@ -2,7 +2,7 @@
 
 The first Instance in the **[[Tanglements Theory#Gamma Branch (γ)|Gamma Branch]]**. Common nicknames include: "The Reactor", and "The Plant".
 
-> Danger: Deadly
+> **Danger Index: 3ue**
 
 ## Description
 

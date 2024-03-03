@@ -2,7 +2,7 @@
 
 The first Instance in the **[[Tanglements Theory#Beta Branch (β)|Beta Branch]]**. Common nicknames include: "The Battlefield", and "The Scrap"
 
-> Danger: Deadly
+> **Danger Index: 3**
 
 ## Description
 

@@ -2,7 +2,7 @@
 
 The second Instance in the **[[Tanglements Theory#Alpha Branch (α)|Alpha Branch]]**. Common nicknames include: "The Forest", and "The Home Instance"
 
-> Danger: Safe
+> **Danger Index: 0**
 
 ## Description
 **Alpha-2** is an infinite highlands terrain with blue tinted plant life and a constantly pitch black sky. Large freshwater lakes can also be found scattered between the hills. Crowds of Mindless Mimics wander the Instance, and are commonly seen travelling between lakes; with following them to acquire water being a technique used by many human travellers in the Instance.

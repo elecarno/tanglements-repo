@@ -2,7 +2,7 @@
 
 The first Instance in the **[[Tanglements Theory#Gamma Branch (γ)|Gamma Branch]]**. Common nicknames include: "The Library"
 
-> Danger: Moderately Safe
+> **Danger Index: 2ue**
 
 ## Description
 

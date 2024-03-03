@@ -2,7 +2,7 @@
 
 The first Instance in the **[[Tanglements Theory#Alpha Branch (α)|Alpha Branch]]**. Common nicknames include: "The Alphaways", "The City", and "The Streets".
 
-> Danger: Safe - Deadly (Dependant on location)
+> **Danger Index: 1u - 3u** (Dependant on location)
 
 ## Description
 **Alpha-1** is best described as a post-apocalyptic cityscape. It constists mostly of dense streets and alleyways, it is presumed to be infinite and has been entirely observed as euclidean in nature. There are however, many barriers that have prevented the greater exploration of the Instance (listed later in the article). [[Tanglements Theory|Time Overlap]] have also been widely observed different sections of the city having originated from different points in time.

@@ -2,7 +2,7 @@
 
 The third Instance in the **[[Tanglements Theory#Alpha Branch (α)|Alpha Branch]]**. Common nicknames include: "The Jungle"
 
-> Danger: Extremely Dangerous
+> **Danger Index: 3**
 
 ## Description
 **Alpha-3** is a jungle-like environment comprised of giant trees called Hyper Trees (named for their 4-dimensional properties), sitting a top an ocean. The Instance is inhabited by [[Alterations|altered]] and unaltered versions of the mega-fauna that was believed to inhabit the Earth several hundred million years ago.

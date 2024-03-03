@@ -2,7 +2,7 @@
 
 The first Instance in the **[[Tanglements Theory#Delta Branch (Δ)|Delta Branch]]**. Common nicknames include: "The Lab"
 
-> Danger: Moderate
+> **Danger Index: 2ue**
 
 ## Description
 

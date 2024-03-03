@@ -2,7 +2,7 @@
 
 The second Instance in the **[[Tanglements Theory#Beta Branch (β)|Beta Branch]]** Common nicknames include: "The Kitchen"
 
-> Danger: Safe - Deadly (Dependant on Location)
+> **Danger Index: 1 - 2** (Dependant on location)
 
 ## Description
 
