@@ -42,7 +42,7 @@ This branch contains three known instances:
  -  [[Gamma-3|γ-3]] "The Sewer"
 
 #### Delta Branch (Δ)
-With the γ reserved, the next letter of the Greek alphabet was chosen as the name for the third discovered branch. This branch contains the incredibly important instance Δ-1, otherwise known as "The Lab", which is crucial to the survival of any and all human factions in the Tanglements as it contains the equipment necessary to turn [[Chuppy Blood]] into [[Perception Pills]].
+With the γ reserved, the next letter of the Greek alphabet was chosen as the name for the third discovered branch. This branch contains the incredibly important instance Δ-1, otherwise known as "The Lab", which is crucial to the survival of any and all human factions in the Tanglements as it contains the equipment necessary to turn [[Chuppy|Chuppy Blood]] into [[Perception Pills]].
 
 This branch contains two known instances:
 
@@ -71,20 +71,20 @@ The common stages of perception sickness are as follows:
  -  scattering of touch, hearing, and sight
  -  scattering of all 5 senses across different limbs
  -  scattering of the limbs themselves and loss of sense of self
- -  slow scattering of entire body until you can no longer be percieved by any outside observer
+ -  slow scattering of entire body until you can no longer be perceived by any outside observer
  -  (theorised) stretching of consciousness across all instances and points in time
 
-If one finds themselves succumbing to the sickness within instance Δ-2 however, they will instead become a Void Roamer.
+If one finds themselves succumbing to the sickness within instance Δ-2 however, they will instead become a [[Void Roamer]].
 
 Perception Sickness is temporarily reversed using Perception Pills, no known cure or long term treatment is as of yet known.
 
 The final stage of the sickness has given rise to the common phrase present in many of the writings and stories of the Tanglements' human inhabitants, a phrase intended to invoke both comfort and horror in its implications:
 
-> "No one dies in the Tanglements, you just can't percieve them anymore."
+> "No one dies in the Tanglements, you just can't perceive them anymore."
 
 ## Units & Flora
 Units are the name given to the animate fauna of the Tanglements. The name "Unit" was found in a [[Precursor]] text. Units come in three categories based on their power as an expression of how close they are to the code of the simulation:
 
- -  High Level - Furthest from the code, often similiar to naturally evolved Fauna in the real world.
+ -  High Level - Furthest from the code, often similar to naturally evolved Fauna in the real world.
  -  Mid Level - An intermediary possessing a mixture of the capabilities of High and Low Level.
  -  Low Level - Closest to the code, often able to manipulate the simulation itself.
