@@ -78,6 +78,8 @@ If one finds themselves succumbing to the sickness within instance Δ-2 however,
 
 Perception Sickness is temporarily reversed using Perception Pills, no known cure or long term treatment is as of yet known.
 
+It is known that those who have been born in the Tanglements possess an immunity to the affliction, however this immunity decreases over the individuals lifetime. Typically at around 18 years old the individual will also start to experience minor symptoms of Perception Sickness.
+
 The final stage of the sickness has given rise to the common phrase present in many of the writings and stories of the Tanglements' human inhabitants, a phrase intended to invoke both comfort and horror in its implications:
 
 > "No one dies in the Tanglements, you just can't perceive them anymore."
